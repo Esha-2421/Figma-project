@@ -1,0 +1,251 @@
+body{
+    margin:0;
+    padding:0;
+  }
+  .headingarea{
+    background:url('bg1.png') no-repeat;
+  }
+  .heading1{
+    background:rgba(255,255,255,0.2);
+  }
+  .menu1{
+    text-align:center;
+  }
+  .menu1 ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+  }
+  .menu1 ul li{
+    float:left;
+  }
+  .menu1 ul li a{
+  padding:15px 10px;
+  display:block;
+  text-decoration:none;
+  color:#014B40;
+}
+  .menu2 ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+  }
+  .menu2 ul li{
+    float:left;
+  }
+    .menu2 ul li{
+    padding:15px 10px;
+    display:block;
+    text-decoration:none;
+    color:#014B40;
+  }
+  .logo{
+    text-align: center;
+  }
+  .heading2 h3{
+    margin:0;
+    padding:0;
+    color:#fff;
+    font:normal 200 50px arial;
+    margin-top:150px;
+  }
+  .heading2 p{
+    color:#fff;
+    font:normal 100 16px Poppins;
+  }
+  .heading2 a:link,.heading2 a:visited{
+    color:white;
+  text-decoration: none;
+  background:#014B40;
+  padding:10px 25px;
+  font:normal 100 16px Poppins;
+  border-radius:10px;
+  }
+  .heading3{
+    margin-right:400px;
+    margin-bottom:300px;
+  }
+  .feature{
+    margin:50px 0;
+  }
+  .feature1 p{
+    font:normal 400 25px Open Sans;
+    color:#014B40;
+    margin:0;
+}
+.feature1 a:link,.feature a:visited{
+    font:normal 400 25px Open Sans;
+  color:#014B40;
+  text-decoration:none;
+  margin:0;
+}
+.feature3{
+    text-align: right;
+}
+.box{
+    margin:20px 0;
+    position: relative;
+}
+.box img{
+    width:100%;
+}
+.details{
+    position:absolute;
+    background:rgba(1, 75, 64,0.2);
+    border-radius:0 0 12px 12px;
+    width:92%;
+    bottom:20px;
+    padding:30px 20px;
+}
+.details table tr:first-child td:nth-child(2){
+    padding-left:80px;
+}
+.details a:link,.details a:visited{
+    color:white;
+  border:solid 1px #fff;
+  padding:10px 25px;
+  text-decoration: none;
+  border-radius:5px;
+}
+.details table td{
+    color:#fff;
+}
+.searcharea{
+    background:url('bg9.png') no-repeat;
+    padding:50px 15px;
+}
+.search1{
+    text-align: center;
+}
+.search1 .fa{
+    color:green;
+  background:#fff;
+  padding:5px 10px;
+  border-radius:5px;
+}
+.new{
+    margin:50px 0;
+}
+.new1 p{
+    font:normal 400 25px Open Sans;
+    color:#014B40;
+    margin:0;
+}
+.new1 a:link,.new1 a:visited{
+    font:normal 400 25px Open Sans;
+  color:#014B40;
+  text-decoration:none;
+  margin:0;
+} 
+.new11{
+    text-align: right;
+}
+.box1{
+    margin:20px 0;
+}
+.box1 img{
+    width:100%;
+}
+.shipping{
+    margin-bottom:50px;
+}
+.shipping img{
+    width:100%;
+}
+.foot{
+    background:#014B40;
+    padding:20px 50px;
+}
+.detail1{
+    background: #1A5D53;
+    border-radius:5px;
+    padding:10px;
+}
+.detail2{
+    color:#B3B6B7;
+    font-size:15px;
+}
+.detail1 .fa{
+    padding:5px 10px;
+    background-color:#014B40;
+    color:#fff;
+    font-size:15px;
+    border-radius:5px;
+}
+.foot1 p{
+    color:white;
+    font-size:10px;
+}
+.foot1 h6{
+    color:#fff;
+}
+.foot2 h4{
+    color:#fff;
+    padding-top:30px;
+}
+.foot2 ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    color:#B3B6B7;
+}
+.foot3 .fa{
+    background:#1A5D53;
+    padding:10px 13px;
+    border-radius:50%;
+    color:#fff;
+    margin-bottom:10px;
+}
+.foot3 tr:nth-child(2) td{
+    font-weight:bold;
+    color:#fff;
+}
+.foot4{
+    margin:10px 0;
+}
+.foot4 .fa{
+    background:#1A5D53;
+    padding:10px 11px;
+    border-radius:50%;
+    color:#fff;
+    margin-bottom:10px;
+}
+.foot4 tr:nth-child(2) td{
+    font-weight:bold;
+    color:#fff;
+}
+.foot5 .fa{
+    background:#1A5D53;
+    padding:10px 14px;
+    border-radius:50%;
+    color:#fff;
+    margin-bottom:10px;
+}
+.foot5 tr:nth-child(2) td{
+    font-weight:bold;
+    color:#fff;
+}
+.lastfoot{
+    background:#1A5D53;
+    padding:20px 0;
+    margin-top:30px;
+    width:100%;
+}
+.lastfoot p{
+    margin:0;
+    color:#fff;
+}
+.lastfoot ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+    float:right;
+}
+.lastfoot ul li{
+    float: left;
+    padding:0 10px;
+}
+.lastfoot .fa{
+    color:#fff;
+}
+
