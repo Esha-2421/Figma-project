@@ -26,6 +26,9 @@ body{
   text-decoration:none;
   color:#014B40;
 }
+.menu2{
+  text-align: center;
+}
   .menu2 ul{
     list-style:none;
     margin:0;
@@ -73,6 +76,7 @@ body{
     font:normal 400 25px Open Sans;
     color:#014B40;
     margin:0;
+    text-align: left;
 }
 .feature1 a:link,.feature a:visited{
     font:normal 400 25px Open Sans;
@@ -87,6 +91,9 @@ body{
     margin:20px 0;
     position: relative;
 }
+.box:hover details{
+  display:block;
+}
 .box img{
     width:100%;
 }
@@ -97,6 +104,7 @@ body{
     width:92%;
     bottom:20px;
     padding:30px 20px;
+    display: none;
 }
 .details table tr:first-child td:nth-child(2){
     padding-left:80px;
@@ -242,7 +250,7 @@ body{
     list-style:none;
     padding:0;
     margin:0;
-    float:right;
+    text-align: right;
 }
 .lastfoot ul li{
     float: left;
